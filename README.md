@@ -196,5 +196,4 @@ Take these screenshots and add them to a `/screenshots` folder in your repo (or 
 
 _Add your final live URL here once deployed:_
 ```
-https://your-live-url-here
-```
+https://usmanportfolio2026.z7.web.core.windows.net/```
